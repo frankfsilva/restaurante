@@ -1,0 +1,88 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.navbar,
+footer {
+    background-color: #e15f41;
+}
+
+#cabecalho .nav .nav-link.active {
+    background-color: #fff;
+    color: #e15f41;
+}
+
+#cabecalho .nav .nav-link,
+.navbar-brand,
+.navbar-brand:hover,
+.nav-cardapio .nav-link.active:hover,
+footer {
+    color: #fff;
+}
+
+.navbar-toggler {
+    background-color: #fff;
+}
+
+.section-title {                                                /*classe criada para alguns titulos e subtitulos*/
+    font-family: 'Pacifico', cursive;
+}
+
+#sobre-o-restaurante, #cardapio {                                          
+    background-color: #ffeae6 ;
+}
+
+.text-colored {                                                 /*classe criada para alguns titulos, subtitulos e textos*/
+    color: #e15f41;
+}
+
+.nav-cardapio .nav-link.active,
+#fale-conosco button {
+    background-color: #e15f41;
+    color: #fff;
+}
+
+.nav-cardapio .nav-link:hover {
+    color: #e15f41;
+}
+
+.social-links li {
+    list-style: none;                                             /*removendo os bullets*/
+    display: inline;                                              /*deixando os icones na mesma linha*/
+}
+
+.social-links a {
+    text-decoration: none;
+}
+
+#cardapio img {
+    height: 163px;
+}
+
+textarea {
+    resize: none;
+    height: 100px;
+}
+
+footer {
+    text-align: center;
+    padding: 8px;
+}
+
+.telefones {
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+}
+
+
+/*media query para celular*/
+
+@media (max-width: 767px) {
+    .carousel-item img {
+        height: 280px;
+    }
+
+    
+}
+
