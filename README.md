@@ -1,8 +1,8 @@
 <h1>Restaurante</h1>
 <h2>Sobre o projeto</h2>
-Restaurante é um website criado para expôr os produtos e serviços ofertados por um establecimento.
-Esta pagina foi criada utilizando-se de recursos e metódos que promovessem um layout com poucas cores e dinâmico.
-O projeto possui as seções:
+Restaurante é um website criado para expôr os produtos e serviços ofertados por um estabelecimento.
+Esta pagina foi criada utilizando-se de recursos e métodos que promovem um layout com poucas cores contendo um slide de imagens e seções.
+As seções:
 <ul>
   <li>Sobre o restaurante;</li>
   <li>Eventos;</li>
